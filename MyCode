@@ -11,7 +11,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install screen
 
 
-#Guide - Description:
+#Guide - Description
 
 
 screen -S sui
