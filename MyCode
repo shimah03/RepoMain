@@ -26,7 +26,7 @@ curl -s -X POST http://127.0.0.1:9000 -H 'Content-Type: application/json' -d '{ 
 journalctl -u suid -f -o cat
 
 
-#Delete node:/
+#Delete node
 
 
 sudo systemctl stop suid
