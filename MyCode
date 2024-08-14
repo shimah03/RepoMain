@@ -8,7 +8,7 @@ OS:   Ubuntu 20.044.1
 sudo apt update && sudo apt upgrade -y -o
 
 
-sudo apt install screen
+sudo apt install screen 
 
 
 screen -S sui
