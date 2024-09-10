@@ -28,7 +28,6 @@ journalctl -u suid -f -o cat
 
 #Delete node
 
-
 sudo systemctl stop suid
 
 
